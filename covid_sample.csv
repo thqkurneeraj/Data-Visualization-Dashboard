@@ -1,0 +1,6 @@
+Country,Date,TotalCases,TotalDeaths
+India,2020-01-01,0,0
+India,2020-01-02,1,0
+India,2020-01-03,3,0
+USA,2020-01-01,0,0
+USA,2020-01-02,5,1
